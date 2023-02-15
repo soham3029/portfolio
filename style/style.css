@@ -503,6 +503,26 @@ section {
   cursor: pointer;
 }
 
+.about-stats .progress-bars .progress-bar .progress-con .progress .ml {
+  width: 90%;
+  cursor: pointer;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .dl {
+  width: 90%;
+  cursor: pointer;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .rest-api {
+  width: 93%;
+  cursor: pointer;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .mq {
+  width: 92%;
+  cursor: pointer;
+}
+
 .stats-title {
   text-transform: uppercase;
   font-size: 1.4rem;
